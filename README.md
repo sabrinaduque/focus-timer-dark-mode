@@ -1,10 +1,50 @@
-# focus-timer-dark-mode
-A funcionalidade do botão no canto superior direito é alternar entre o Light Mode e o Dark Mode.
 
-Os botões que se encontram do lado esquerdo, abaixo do timer, apresentam as seguintes funcionalidades:
 
-Play / Pause: aciona / pausa o timer;
-Stop: para o timer / set: adiciona quantos minutos você quer;
-+: aumenta em 5 minutos o tempo do timer;
--: diminui em 5 minutos o tempo do timer.
-Cada card que se encontra do lado direito, quando selecionado, muda de cor e emite um som diferente, associado a floresta, chuva, cafeteria ou lareira. Além disso, o volume pode ser controlado pelo slider que está embaixo de cada ícone.
+<h1 align="center"> Focus Timer </h1>
+
+<p align="center">
+Projeto tem como objetivo masterizar/demonstrar qualidades técnicas no front-end. <br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
+</p>
+
+<p align="center">
+  <img alt="projeto Habits" src="github/preview.jpg" width="100%">
+</p>
+
+<br>
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## 💻 Projeto
+
+Este projeto Focus Timer foi criado com a intenção de simplificar sua rotina de trabalho e incentivá-lo a alcançar um equilíbrio saudável entre produtividade e descanso. Aproveite ao máximo suas sessões de trabalho, minimize distrações e desfrute de intervalos regulares para recarregar sua mente.
+
+ <h3 align="start"> ⚙️ Funcionalidades</h3>
+ 
+ Alternar o tema da aplicação: Botão superior direito
+
+Botões localizados abaixo do timer, no canto inferior esquerdo:
+
+- Play: Dispara
+- Pause: Pausa timer
+
+- Stop: Para o timer
+- Alterar tempo: Possibilita inserir um tempo para o timer (em minutos)
+
+- (ícone + ): Aumenta em 5 minutos o tempo do timer
+- (ícone - ): Diminui em 5 minutos o tempo do timer
+
+
+- Cards (lado direito): Disponibiliza quatro sons ao usuário (floresta, chuva, cafeteria ou lareira). Cada um acompanha um slider, onde é possível controlar o volume dos sons individualmente.
+- [Visite o projeto online](https://sabrinaduque.github.io/focus-timer-dark-mode/)
